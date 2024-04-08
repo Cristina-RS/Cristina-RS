@@ -3,6 +3,6 @@
 
 - 🌱 Estoy estudiando **Ingenieria informatica en la UOC**
 
-<h3 align="left">Connect with me:cruperezs@uoc.edu</h3>
+
 <p align="left">
 </p>
